@@ -1,0 +1,46 @@
+*{
+    margin: 10;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Bienvenida {
+    color: coral;
+}
+body{
+    background-image: url(https://scontent.fmvd4-1.fna.fbcdn.net/v/t39.30808-6/277679366_3232696257055269_2815745585663193564_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=a26aad&_nc_ohc=999E-GfGvosAX_Avfhb&_nc_ht=scontent.fmvd4-1.fna&oh=00_AfDniiXFh5r9RZ9yWPw0HXkpNruwJFf2cmZ8tKTX0mUI1g&oe=64CEE844);
+   text-align: center;
+
+}
+
+.Educación{
+    color: antiquewhite;
+}
+.Experiencia{
+    color: antiquewhite;
+}
+.Contacto{
+    color: antiquewhite;
+}
+.Sobre{
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+}
+.Contacto a {
+    color: wheat
+}
+h1{
+    text-align: center;
+}
+.yo a{
+    color: antiquewhite;
+}
+
+
+
+
+
+
+
+
